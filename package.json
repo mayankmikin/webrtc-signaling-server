@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/technicalheist/webrtc-signaling-server.git"
+    "url": "git+https://github.com/mayankmikin/webrtc-signaling-server.git"
   },
   "keywords": [
     "WebRTC",
     "Signaling",
     "Server",
     "Signaling-Server",
-    "technicalheist",
-    "technicalheist.com"
+    "iotate",
+    "iotate.com"
   ],
-  "author": "TechnicalHeist",
+  "author": "IOTATE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/technicalheist/webrtc-signaling-server/issues"
+    "url": "https://github.com/mayankmikin/webrtc-signaling-server/issues"
   },
-  "homepage": "https://github.com/technicalheist/webrtc-signaling-server#readme",
+  "homepage": "https://github.com/mayankmikin/webrtc-signaling-server#readme",
   "dependencies": {
     "webrtc-signaling-helpers": "^1.0.1"
   }

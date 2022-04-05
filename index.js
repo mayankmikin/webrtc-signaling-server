@@ -1,6 +1,3 @@
-// TechnicalHeist      - www.technicalheist.com
-// MIT License    - https://github.com/technicalheist/webrtc-signaling-server/blob/master/LICENSE
-// Documentation  - https://github.com/technicalheist/webrtc-signaling-server
 var fs = require('fs');
 
 //creating certificate folder
