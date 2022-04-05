@@ -1,1 +1,1 @@
-{"socketURL":"/","dirPath":"","port":"8090","enableLogs":"false","autoRebootServerOnFailure":"false","isUseHTTPs":"false","sslKey":"","sslCert":"","sslCabundle":"","enableAdmin":"false","adminUserName":"admin","adminPassword":"password"}
+{"socketURL":"/","dirPath":"","port":"8090","enableLogs":"false","autoRebootServerOnFailure":"false","isUseHTTPs":"false","sslKey":"","sslCert":"","sslCabundle":"","enableAdmin":"false","adminUserName":"admin","adminPassword":"admin"}
